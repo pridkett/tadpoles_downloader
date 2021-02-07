@@ -1,0 +1,14 @@
+name: tadpoles2
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - geckodriver
+  - pytest
+  - pydocstyle
+  - mypy
+  - selenium
+  - black
+  - jupyter
+  - python-chromedriver-binary
+prefix: /Users/pwagstro/.config/miniconda/envs/tadpoles2
